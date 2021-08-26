@@ -1,0 +1,35 @@
+[
+    {
+       "src": "#",
+       "alt": "Best Snow", 
+       "text": "Best Snow is group project, a website to check snowfall in the western United States.",
+       "link": "https://paul-vatterott.com/BestSnow/",
+       "repo": "https://github.com/pfvatterott/BestSnow",
+       "why": "Group Project"
+    },
+    {
+        "src": "#",
+        "alt": "Password Generator",
+        "text": "Randomly generates a password",
+        "link": "https://asherpappas.github.io/HW3-PasswordGen/",
+        "repo": "https://github.com/AsherPappas/HW3-PasswordGen",
+        "why": "Homework Project"
+    },
+    {
+        "src": "#",
+        "alt": "Pantry Genie - Recipe App",
+        "text": "A group project, this site allows you to look up recipes with the ingredients you already have.",
+        "link": "https://pantrygenie.herokuapp.com/",
+        "repo": "https://github.com/Jason-Jorgensen/RecipeApp",
+        "why": "Group Project"
+    },
+    {
+        "src": "#",
+        "alt": "Weather Dashboard",
+        "text": "A simple app to show a ten day forcast",
+        "link": "https://asherpappas.github.io/WeatherDashboard/",
+        "repo": "https://github.com/AsherPappas/WeatherDashboard",
+        "why": "Homework Project"
+    }
+
+]
